@@ -1,0 +1,6 @@
+{
+  "name": "Ramadan Deeds Tracker",
+  "description": "A beautiful and comprehensive spiritual tracker for Ramadan deeds, including prayers (salat), charity (sadaqa), dhikr, daily duas, and Quran recitation, with progress analytics and active daily notification updates.",
+  "requestFramePermissions": ["notifications"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
